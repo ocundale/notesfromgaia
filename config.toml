@@ -1,8 +1,8 @@
 languageCode = "en-us"
 title = "Coull Documentation"
 theme = "docdock"
-baseURL = "coull.github.io/documentation/content/"
-publishDir = "content"
+baseURL = "coull.github.io/documentation/"
+publishDir = "documentation/content"
 
 DefaultContentLanguage = "en"
 
