@@ -4,7 +4,7 @@ theme = "docdock"
 baseURL = "coull.github.io/documentation/"
 contentdir = "content"
 layoutdir = "layouts"
-publishdir = "public"
+publishdir = "documentation/public"
 canonifyurls = true
 
 DefaultContentLanguage = "en"
