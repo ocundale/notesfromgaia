@@ -6,6 +6,4 @@ weight = 1
 
 {{%children style="h2" description="true" %}}
 
-
-
 If you can't access specific features or perform the tasks described in these pages, please contact [support@coull.com](mailto:support@coull.com).
