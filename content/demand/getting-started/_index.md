@@ -11,3 +11,5 @@ Coull delivers ads via the IAB's VAST/VPAID schema, which provides support for a
 -   In-stream
 -   OverStream
 -   OnPause
+
+For more detail, see [Coull ad formats and creative specifications](/demand/getting-started/coull-ad-formats/)

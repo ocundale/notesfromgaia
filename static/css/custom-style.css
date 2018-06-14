@@ -1,4 +1,7 @@
- article section.page h1:first-of-type {
+html {
+    font-family: 'Arial', sans-serif;
+}
+article section.page h1:first-of-type {
     margin: 3rem 0rem;
     font-family: "Novacento Sans Wide", "Helvetica", "Tahoma", "Geneva", "Arial", sans-serif;
      text-align: left;
@@ -7,4 +10,16 @@
     font-weight: 200;
     font-size: 2.25rem;
     line-height: 2.2rem;
-    }
+}
+h2 {
+    font-size: 1.75rem;
+}
+h3 {
+    font-size: 1.5rem;
+}
+h4,h5 {
+    font-size: 1.25rem;
+}
+section strong {
+    font-weight: bold;
+}

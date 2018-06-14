@@ -1,11 +1,9 @@
 +++
-title = "Demand"
+title = "Demand Partners"
 date = "2018-06-04T15:18:05+01:00"
-weight = 1
+weight = 2
 +++
 
-[Coull ad formats and creative specs](addlinkere.com)
-
-[Real-time bidding in the open auction](addlinkere.com). Reach your target audience through real-time bidding.
+{{% children depth="3" showhidden="true" %}}
 
 If you can't access specific features or perform the tasks described in these pages, please contact [support@coull.com](mailto:support@coull.com).

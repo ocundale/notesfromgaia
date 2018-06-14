@@ -5,8 +5,8 @@ date = 2018-06-04T16:40:49+01:00
 
 # Coull Documentation
 
-[Publishers](publishers/index.md)
+[Publishers](/publishers/)
 
-[Demand](demand/index.md)
+[Demand](/demand/)
 
 If you can't access specific features or perform the tasks described in these pages, please contact [support@coull.com](mailto:support@coull.com).

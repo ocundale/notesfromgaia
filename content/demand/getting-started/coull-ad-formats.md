@@ -16,14 +16,13 @@ OverStream ads are non-linear video ads that typically float on top of the video
 
 OnPause ads are a way take advantage of the full video player window and deliver a high impact image or rich-media advertisement, at a non-interruptive moment, when the audience pauses the video content.
 
-| Ad-format          | Supported file formats            | Supported dimensions      |
-|--------------------|-----------------------------------|---------------------------|
-| In-stream          | MP4, WEBM, OGG, Javascript VPAID  | No dimension restrictions |
-| OverStream         | "GIF, JPG, PNG, Javascript VPAID, |                           |
-| Rich-media*"       | "320x50, 468x60, 728x90           |                           |
-| 300x250, Custom**" |                                   |                           |
-| OnPause            | "GIF, JPG, PNG, Javascript VPAID, |                           |
-| Rich media*"       | 300x250, Custom**                 |                           |
+| Ad-format  | Supported file formats                       | Supported dimensions                      |
+|------------|----------------------------------------------|-------------------------------------------|
+| In-stream  | MP4, WEBM, OGG, Javascript VPAID             | No dimension restrictions                 |
+| OverStream | GIF, JPG, PNG, Javascript VPAID, Rich-media* | 320x50, 468x60, 728x90, 300x250, Custom** |
+| OnPause    | GIF, JPG, PNG, Javascript VPAID, Rich media* | 300x250, Custom**                         |
+
 
 _\*Rich-media creative types are supported and can be planned with your Coull demand partner account manager._
+
 _\*\*Custom sizes available. Consult your Coull demand partner account manager for planning your custom execution._
