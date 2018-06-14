@@ -6,7 +6,8 @@ The documents are written in a format known as Markdown, which allows simple for
 To edit a document, simply open the file on Github and click the pencil icon to edit the text.
 Once you have made your changes, ask someone in the dev team to push these changes live.
 
-### Setting Hugo (dev instructions)
+
+### Editing docs on your Local machine (dev instructions)
 
 The website is built using the static site generator 'Hugo'. Hugo will take all the markdown files, apply any theme formatting and styling and output the HTML files into the `/public` folder.
 
