@@ -23,3 +23,6 @@ h4,h5 {
 section strong {
     font-weight: bold;
 }
+header:after {
+    background: none;
+}
