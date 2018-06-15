@@ -26,3 +26,6 @@ section strong {
 header:after {
     background: none;
 }
+footer{
+    display:none;
+}
