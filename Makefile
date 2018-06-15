@@ -15,7 +15,7 @@ worktree:
 deploy: worktree build
 	@ cd $(DEPLOY_DIRECTORY) && echo "docs.coull.com" > CNAME
 	@ cd $(DEPLOY_DIRECTORY) && git add . && git commit -m "Build output as of $(shell git log '--format=format:%H' master -1)"
-	@ git push origin $(DEPLOY_BRANCH)
+	@ git push origin $(DEPLOY_BRANCH) --force
 clean:
 	@ rm -rf $(DEPLOY_DIRECTORY)
 	@ git worktree prune
