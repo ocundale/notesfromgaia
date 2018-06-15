@@ -31,4 +31,3 @@ If your video player is not listed, please make sure it has built-in support for
 
 Integrations utilising the Google IMA are supported, but these may require custom settings, so please refer to your video player specific integration guide.
 
-{{%children style="card" %}}
