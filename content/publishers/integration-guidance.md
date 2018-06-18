@@ -15,7 +15,7 @@ If your video player is not listed, please make sure it has built-in support for
 |-------------|:---------:|:----------:|:-------:|:--------:|
 | Tag         |     ✓     |      ✓     |    ✗    |     ✓    |
 | Plugin      |     ✓     |      ✓     |    ✓    |     ✓    |
-|             |           |            |         |          |
+
 
 **Player support by integration type:**
 

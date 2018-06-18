@@ -17,7 +17,7 @@ The website is built using the static site generator 'Hugo'. Hugo will take all 
 2. Clone this repo from github by running `git clone git@github.com:coull/documentation.git` in your desired directory.
 3. Navigate to the root directory and run the command `git submodule init` to install the theme, which is a git submodule. Then run `git submodule update` to update the theme to the latest version.
 4. Running `hugo` will build the files into the public directory.
-4. You can then run a local server by running `hugo server -D` and navigate to localhost:1313 to view the site.
+4. You can then run a local server by running `hugo server -D` and navigate to **localhost:1313** to view the site.
 
 
 **To push a new build of the site to production:**
@@ -34,5 +34,3 @@ The theme being used is 'Docdock', all details are in the docdock/ folder includ
 For details of how to customise the theme, check out http://docdock.netlify.com/. This is the example site, so you can find all the markup in `themes/docdock/exampleSite/`.
 
 Custom over-rides can be made to the theme by adding your CSS-styles to the `static/css/theme.css` file
-
-

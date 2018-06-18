@@ -32,3 +32,6 @@ header:after {
 footer{
     display:none;
 }
+article > aside .menu .dd-item.active > div * {
+    border-bottom: none;
+}
