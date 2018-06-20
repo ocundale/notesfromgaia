@@ -11,6 +11,7 @@ If you have a connection to either of these partners you will be able to buy Cou
 You can identify Coull inventory in either platform using the following details:
 
 Bidswitch listing: 	**COULL**
-Pubmatic IDs: 		  **64266 (OverStream, OnPause) / 156392 (In-stream)**
 
-To make your deal arrangements, contact your Coull demand partner account manager or contact [adops@coull.com](adops@coull.com).
+Pubmatic IDs: 		  **64266** (OverStream, OnPause) / **156392** (In-stream)
+
+To make your deal arrangements, contact your Coull demand partner account manager, please see [how to get support](/how-to-get-support/).

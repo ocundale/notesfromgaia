@@ -1,5 +1,5 @@
 +++
-title = "VideoJS Integration"
+title = "VideoJS integration"
 date = "2018-06-04T15:18:05+01:00"
 weight = 4
 +++
@@ -33,4 +33,4 @@ With the script included, you can then simply update your embed code to call the
 </script>
 ```
 
-If you have any issues with the Coull Plugin integration, please find out [how to get support](/how-to-get-support/).
+If you have any issues with the Coull Plugin integration, please see [how to get support](/how-to-get-support/).

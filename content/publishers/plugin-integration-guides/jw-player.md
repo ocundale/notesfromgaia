@@ -37,4 +37,4 @@ Make sure you replace the *xxxxx* in the URL with your unique PID.
     </script>
 ```
 
-If you have any issues with the Coull Plugin integration, please find out [how to get support](/how-to-get-support/).
+If you have any issues with the Coull Plugin integration, please see [how to get support](/how-to-get-support/).

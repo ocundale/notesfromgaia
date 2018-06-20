@@ -10,11 +10,11 @@ Linear video ads that play before, during or after the video content (Pre/Mid/Po
 
 ### OverStream
 
-OverStream ads are non-linear video ads that typically float on top of the video player whilst the content plays, commonly at bottom of the video, though this can vary by publisher.
+OverStream ads are non-linear video ads that typically float on top of the video player whilst the content plays.
 
 ### OnPause
 
-OnPause ads are a way take advantage of the full video player window and deliver a high impact image or rich-media advertisement, at a non-interruptive moment, when the audience pauses the video content.
+OnPause ads are a way to take advantage of the full video player window and deliver a high impact image or rich-media advertisement, at a non-interruptive moment, when the audience pauses the video content.
 
 | Ad-format  | Supported file formats                       | Supported dimensions                      |
 |------------|----------------------------------------------|-------------------------------------------|

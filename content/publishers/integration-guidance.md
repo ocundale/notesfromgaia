@@ -5,7 +5,7 @@ date = "2018-06-04T15:18:05+01:00"
 weight = 3
 +++
 
-Information to help you choose the correct integration type for your monetisation goals and chosen video player.
+Information is presented here to help you choose the correct integration type for your monetisation goals and chosen video player.
 
 If your video player is not listed, please make sure it has built-in support for the VPAID 2.0 standard and contact your account manager for specific integration details.
 
@@ -29,5 +29,4 @@ If your video player is not listed, please make sure it has built-in support for
 |   Ooyala    |     ✓     |      ✗     |
 
 
-Integrations utilising the Google IMA are supported, but these may require custom settings, so please refer to your video player specific integration guide.
-
+For video player specific instructions, please see our [tag integration guides](/publishers/tag-integration-guides) or [plugin integration guides](/publishers/plugin-integration-guides).

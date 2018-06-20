@@ -53,4 +53,4 @@ Further information on controlling advertising with Cue Points is available in t
 Further information on these settings is available in the <a href="https://support.brightcove.com/configuring-player-advertising#configure" target="_blank">Brightcove documentation</a>
 {{% /notice %}}
 
-If you have any issues with setting up OverStream, please find out [how to get support](/how-to-get-support/).
+If you have any issues with setting up OverStream, please see [how to get support](/how-to-get-support/).

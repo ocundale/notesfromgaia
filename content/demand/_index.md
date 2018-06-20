@@ -6,4 +6,4 @@ weight = 2
 
  {{% children depth="1" showhidden="true" %}}
 
-If you can't access specific features or perform the tasks described in these pages, please find out [how to get support](/how-to-get-support/).
+If you can't access specific features or perform the tasks described in these pages, please see [how to get support](/how-to-get-support/).

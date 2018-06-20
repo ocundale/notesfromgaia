@@ -1,5 +1,5 @@
 +++
-title = "Brightcove"
+title = "Brightcove integration"
 date = "2018-06-04T15:18:05+01:00"
 weight = 3
 +++
@@ -20,4 +20,4 @@ If required, more detailed information on configuring player plugins is availabl
 {{% /notice %}}
 
 
-If you have any issues with the Coull Plugin integration, please find out [how to get support](/how-to-get-support/).
+If you have any issues with the Coull Plugin integration, please see [how to get support](/how-to-get-support/).
