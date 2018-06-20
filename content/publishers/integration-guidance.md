@@ -2,7 +2,7 @@
 title = "Integration guidance"
 description = "The information provided here is to help you choose the correct integration type for your monetisation goals and chosen video player."
 date = "2018-06-04T15:18:05+01:00"
-weight = 4
+weight = 3
 +++
 
 Information to help you choose the correct integration type for your monetisation goals and chosen video player.

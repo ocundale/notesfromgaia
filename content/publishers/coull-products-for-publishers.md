@@ -1,7 +1,7 @@
 +++
 title = "Coull products for publishers"
 date = "2018-06-04T15:18:05+01:00"
-weight = 3
+weight = 2
 +++
 
 Coull offer publishers a marketplace for selling linear and non-linear video inventory to reputable brands and their agencies. The Coull Marketplace provides the following integration options:
