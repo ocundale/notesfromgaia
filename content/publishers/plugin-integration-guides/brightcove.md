@@ -20,4 +20,4 @@ If required, more detailed information on configuring player plugins is availabl
 {{% /notice %}}
 
 
-If you have any issues with the Coull Plugin integration, please find out [How to get support](/demand/how-to-get-support/).
+If you have any issues with the Coull Plugin integration, please find out [how to get support](/how-to-get-support/).

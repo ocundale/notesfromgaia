@@ -9,4 +9,4 @@ weight = 4
 1.
 
 
-If you have any issues with setting up OverStream, please find out [how to get support](/demand/how-to-get-support/).
+If you have any issues with setting up OverStream, please find out [how to get support](/how-to-get-support/).

@@ -31,4 +31,4 @@ Further information on these ad-schedules is available in the <a href="https://s
 
 From here on you can assign this Player to video content, whether that be using embed code or a plug-in.
 
-If you have any issues with setting up OverStream, please find out [How to get support](/demand/how-to-get-support/).
+If you have any issues with setting up OverStream, please find out [how to get support](/how-to-get-support/).

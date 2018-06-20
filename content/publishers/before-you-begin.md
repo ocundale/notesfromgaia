@@ -10,4 +10,4 @@ Your Coull publisher account manager will be able to get you started, monetising
 
 To access reports in the Coull Platform UI, make sure that you have your username and password, then follow this link to login: <a href="https://platform.coull.com" target="_blank">https://platform.coull.com</a>
 
-If you are missing information, please find out [How to get support](/demand/how-to-get-support/).
+If you are missing information, please find out [how to get support](/how-to-get-support/).
