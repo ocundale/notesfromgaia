@@ -35,6 +35,9 @@ footer{
 article > aside .menu .dd-item.active > div * {
     border-bottom: none;
 }
+#navigation {
+    border-bottom: none;
+}
 #navigation a {
     color: #aaa;
 }
