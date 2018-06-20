@@ -16,8 +16,8 @@ weight = 3
 8. Publish the player. Changes should come into effect within a few minutes on any videos published using this player.
 
 {{% notice tip %}}
-If required, more detailed information on configuring player plugins is available on the official Brightcove support pages: https://support.brightcove.com/configuring-player-plugins
+If required, more detailed information on configuring player plugins is available on the official <a href="https://support.brightcove.com/configuring-player-plugins" target="_blank">Brightcove support pages</a>
 {{% /notice %}}
 
 
-If you have any issues with setting up OverStream Banner, please don’t hesitate to email [account.support@coull.com](account.support@coull.com)
+If you have any issues with the Coull Plugin integration, please find out [How to get support](/demand/how-to-get-support/).

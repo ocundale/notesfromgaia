@@ -7,3 +7,6 @@ weight = 4
 ### How to set up OverStream Banner on VideoJS using a VPAID tag
 
 1.
+
+
+If you have any issues with setting up OverStream, please find out [how to get support](/demand/how-to-get-support/).

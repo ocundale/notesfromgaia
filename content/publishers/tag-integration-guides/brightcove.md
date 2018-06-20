@@ -20,7 +20,7 @@ Using Brightcove's Video Cloud platform, there are two main steps to setting up 
 6. Other settings can be left as the defaults, so click *Save*.
 
 {{% notice tip %}}
-Further information on controlling advertising with Cue Points is available in the Brightcove documentation: https://support.brightcove.com/displaying-ads-using-ad-cue-points
+Further information on controlling advertising with Cue Points is available in the <a href="https://support.brightcove.com/displaying-ads-using-ad-cue-points" target="_blank">Brightcove documentation</a>
 {{% /notice %}}
 
 #### Adding your QUASAR tag to the player
@@ -50,7 +50,7 @@ Further information on controlling advertising with Cue Points is available in t
 10. Save the *PLUGIN* settings you have just changed and publish the changes when prompted, or click the *Publish* button at the top of the page.
 
 {{% notice tip %}}
-Further information on these settings is available in the Brightcove documentation: https://support.brightcove.com/configuring-player-advertising#configure
+Further information on these settings is available in the <a href="https://support.brightcove.com/configuring-player-advertising#configure" target="_blank">Brightcove documentation</a>
 {{% /notice %}}
 
-If you have any issues with setting up OverStream, please don’t hesitate to email [account.support@coull.com](mailto:account.support@coull.com)
+If you have any issues with setting up OverStream, please find out [How to get support](/demand/how-to-get-support/).

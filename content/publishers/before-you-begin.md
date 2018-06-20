@@ -8,6 +8,6 @@ Coull account management services initially sets up your account and users to ge
 
 Your Coull publisher account manager will be able to get you started, monetising your video content with [Coull products for publishers](/publishers/coull-products-for-publishers/).
 
-To access reports in the Coull Platform UI, make sure that you have your username and password, then follow this link to login: [https://platform.coull.com](https://platform.coull.com)
+To access reports in the Coull Platform UI, make sure that you have your username and password, then follow this link to login: <a href="https://platform.coull.com" target="_blank">https://platform.coull.com</a>
 
-If you are missing information, contact your account manager.
+If you are missing information, please find out [How to get support](/demand/how-to-get-support/).

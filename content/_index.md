@@ -5,8 +5,6 @@ date = 2018-06-04T16:40:49+01:00
 
 # Coull Documentation
 
-[Publishers](/publishers/)
+Welcome! Please explore the menu to the left to find the information you are looking for.
 
-[Demand](/demand/)
-
-If you can't access specific features or perform the tasks described in these pages, please contact [support@coull.com](mailto:support@coull.com).
+If the information you require is not included, not working as expected, or, if you want to ask us some questions, please see [How to get support](/demand/how-to-get-support/) and get in contact with us.

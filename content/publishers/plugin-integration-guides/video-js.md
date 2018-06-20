@@ -33,4 +33,4 @@ With the script included, you can then simply update your embed code to call the
 </script>
 ```
 
-If you have any issues with setting up the Coull Plugin, please don’t hesitate to email [account.support@coull.com](account.support@coull.com)
+If you have any issues with the Coull Plugin integration, please find out [How to get support](/demand/how-to-get-support/).

@@ -16,4 +16,4 @@ your Coull account manager. Add this tag to the top URL field.
 Here, you can also set the start and duration times of the OverStream ad.
 4. ​Now save.
 
-If you have any issues with setting up OverStream, please don’t hesitate to email [account.support@coull.com](mailto:account.support@coull.com)
+If you have any issues with setting up OverStream, please find out [How to get support](/demand/how-to-get-support/).
