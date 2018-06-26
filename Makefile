@@ -14,7 +14,7 @@ worktree:
 	@ git branch gh-pages
 	@ git worktree add $(DEPLOY_DIRECTORY) $(DEPLOY_BRANCH)
 deploy: worktree build
-	@ cd $(DEPLOY_DIRECTORY) && echo "docs.coull.com" > CNAME
+	@ cd $(DEPLOY_DIRECTORY) && echo "example.org" > CNAME
 	@ cd $(DEPLOY_DIRECTORY) && git add . && git commit -m "Build output as of $(shell git log '--format=format:%H' master -1)"
 	@ git push --force origin $(DEPLOY_BRANCH)
 clean:
