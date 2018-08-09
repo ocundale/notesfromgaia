@@ -1,0 +1,36 @@
+[
+{
+	"uri": "/example/",
+	"title": "Example page",
+	"tags": [],
+	"description": "",
+	"content": " Example directory thing\n"
+},
+{
+	"uri": "/",
+	"title": "Example Website",
+	"tags": [],
+	"description": "",
+	"content": " Example website test content\n"
+},
+{
+	"uri": "/_header/",
+	"title": "Website",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/categories/",
+	"title": "Categories",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/tags/",
+	"title": "Tags",
+	"tags": [],
+	"description": "",
+	"content": ""
+}]
